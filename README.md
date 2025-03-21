@@ -4,20 +4,6 @@
   </a>
 </h1>
 
-<div align="left">
-
-## 📊 GitHub Contribution Graph
-
-<div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhanSufiyanMirza/KhanSufiyanMirza/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhanSufiyanMirza/KhanSufiyanMirza/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/KhanSufiyanMirza/KhanSufiyanMirza/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
 <!--
 **KhanSufiyanMirza/KhanSufiyanMirza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
